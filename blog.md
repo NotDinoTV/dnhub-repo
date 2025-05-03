@@ -26,11 +26,14 @@ DnHub is alive – the first powerful features have been implemented.
 - **Part**: Custom target zone
 - **Smoothness**: Natural locking with adjustable smoothness
 
+### 👁 ESP
+- **Toggle**: Enable or disable the ESP
+- **ColorPicker**: Choose your own Color
+
 ---
 
 ## 🔮 Coming Soon
 - 🌀 **Strafe Around Player** – automatic circling movement
-- 👁 **ESP** – wallhack-style enemy visibility
 - 💬 **Own Discord Panel** – integrated UI connected to Discord
 
 ---
